@@ -1,0 +1,4 @@
+*.mtx
+symgs/symgs-test 
+spmv/spmv-test 
+smith-waterman/sw-test
