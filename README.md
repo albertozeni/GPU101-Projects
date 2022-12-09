@@ -18,7 +18,7 @@ All the parameters regarding input settings CANNOT BE CHANGED.
 The smith-waterman algorithm is the only one that generates all the inputs at runtime, while for symgs and spmv you should also use a sparse matrix as input (the program will not run without it).
 The one you should use for all of your comparisons has already been prepared for you and is available here:
 
-https://www.dropbox.com/s/5n43vqrtm1meed1/kmer_V2a.mtx?dl=0
+https://www.dropbox.com/s/5n43vqrtm1meed1/kmer_V4a.mtx?dl=0
 
 You can fork this repo and use this as a starting point for your project.
 Remember to include all your source code as well as a PDF (4/5 pages) with your project report in the repository.
