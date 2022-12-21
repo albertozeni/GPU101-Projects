@@ -97,9 +97,9 @@ int main(int argc, char *argv[])
 			}
 		}
 		// compute the alignment
-		for (int i = 1; i < S_LEN; i++)
+		for (int i = 1; i < S_LEN + 1; i++)
 		{
-			for (int j = 1; j < S_LEN; j++)
+			for (int j = 1; j < S_LEN + 1; j++)
 			{
 				// compare the sequences characters
 				int comparison = (query[n][i - 1] == reference[n][j - 1]) ? match : mismatch;
